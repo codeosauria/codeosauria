@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hannah! Future Software Engineer.
 
-![github.com/devjanny](marin-header1-github.jpg)
+![github.com/codeosauria](marin-header1-github.jpg)
 
 ## About me:
 
